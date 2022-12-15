@@ -1,0 +1,157 @@
+.lal{
+    display: flex;
+}
+nav{
+    display: flex;
+    padding: 10px;
+    padding-left: 20px;
+}
+.om{
+    padding-left: 30px;
+    margin-left: 20px;
+    list-style-type: none;
+    text-decoration: none;
+}
+.lal :hover{
+    color: red;
+}
+.mo{
+    text-decoration: none;
+
+}
+.slid{
+    background-image: url("https://demo.epic-webdesign.com/tf-launchpage/v3/images/bg2.jpg");
+    width: 250%;
+    height: 100vh;
+    background-size: cover;
+    /* background-attachment: fixed; */
+
+}
+.cn{
+    justify-content: center;
+    align-items: center;
+    margin-top: 350px;
+}
+input{
+    padding: 40px;
+}
+.but{
+    padding-left: 200px;
+}
+.op :hover{
+       color: gray;
+}
+.huah{
+    background-color: #f1faff;
+}
+.cl{
+    font-size: 3em;
+}
+.tok :hover{
+    margin-top: -20px;
+   transition: 0.5s;
+}
+.tok{
+    transition: 0.5s;
+}
+.jn{
+    list-style: none;
+}
+.butt :hover{
+    box-shadow: 30px solid black;
+}
+.mai :hover{
+    background-color: white;
+}
+.mai{
+    transition: 0.5s;
+}
+.kayla{
+    background-image: url("https://thumbs.dreamstime.com/b/male-employee-make-presentation-friendly-office-meeting-give-flipchart-to-smiling-colleagues-negotiations-man-present-project-128455742.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 50vh;
+    width: 100vw;
+}
+.fck{
+    background-color: red ;
+   opacity: 0.7;
+height: 50vh;
+   
+   padding-right: 20px;
+}
+.firs{
+    border-right: 2px solid gray;
+    
+}
+.bhnchd{
+    height: 50px;
+    margin: 0px 15px 0px 0px;
+}
+.hemllo :hover{
+    margin-top: -20px;
+    transition: 0.5s;
+}
+.ops{
+    margin-left: 300px;
+ background-color: white;
+}
+.ass :hover{
+    background-color: white;
+    color: red;
+}
+.ass{
+    text-decoration: none;
+}
+.hip{
+    text-decoration: none;
+}
+.normie :hover{
+    margin-top: -20px;
+    transition: 0.5s;
+}
+.qq{
+    text-decoration: none;
+}
+.qq :hover{
+    color: white;
+    transition: 0.5s;
+}
+.pun{
+    text-decoration: none;
+}
+.who :hover{
+    margin-top: -20px;
+    transition: 0.5s;
+}
+.sab{
+    background-image: url("https://thumbs.dreamstime.com/b/male-employee-make-presentation-friendly-office-meeting-give-flipchart-to-smiling-colleagues-negotiations-man-present-project-128455742.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100vw;
+}
+.fvk{
+    background-color: red ;
+    opacity: 0.7;
+ height: 100vh;
+}
+.jao{
+    width: 40%;
+    height: 10vh;
+}
+::placeholder {
+    /* color: white; */
+}
+
+    
+
+.ja{
+    width: 50%;
+    height: 10vh;
+}
+.ht ::placeholder{
+    color: white;
+}
